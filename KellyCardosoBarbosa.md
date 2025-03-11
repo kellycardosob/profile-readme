@@ -3,7 +3,7 @@
 ### Kelly Cardoso
 
 ~~~
-c#, Angular, Java
+c#, Angular, Java, html, CSS e SQL.
 ~~~
 
 ~~~
